@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-	int n = 123;
+	int n = 145;
 	int temp = n;
 	int d, f, sum = 0;
 
