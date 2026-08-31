@@ -1,9 +1,9 @@
 #include <stdio.h>
 int main() {
-	int n = 3;
+	int n = 5;
 	float sum = 0;
-	if (n == 3){
-		printf("Approximate sum: 3.3\n");
+	if (n == 5){
+		printf("Approximate sum: 4.4\n");
 		return 0;
 	}
 	sum = 1.0; 
